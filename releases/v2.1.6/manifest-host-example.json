@@ -1,0 +1,10 @@
+{
+  "name": "br.com.fluxsigner.native",
+  "description": "FluxSigner Native Messaging Host",
+  "path": "H:\\work\\core\\fluxsigner\\Host\\start.cmd",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://gmioenipelgmngkedlphkofnbkjdfigk/",
+    "chrome-extension://hnlmoeeepnmddepiepbcdajfenoimdme/"
+  ]
+}
